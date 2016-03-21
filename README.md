@@ -49,6 +49,7 @@
 * [100 的 Android 开源库](https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md)
 * [干货集中营【开源App】](http://gank.io/download)
 * [安卓APP项目源码大全](http://www.javaapk.com/)
+* [Git@OS安卓App项目大全](http://git.oschina.net/languages/Android)
 
 # **Android 求伯乐**
 * [Android 全国职位列表](https://github.com/rengwuxian/android-jobs)
