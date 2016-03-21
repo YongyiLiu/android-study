@@ -48,6 +48,8 @@
 * [androidApp开源源码汇总](http://appxcode.com/index.php?con=index&act=search&keyword=&cid=7&sort=0)
 * [100 的 Android 开源库](https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md)
 * [干货集中营【开源App】](http://gank.io/download)
+* [安卓APP项目源码大全](http://www.javaapk.com/)
 
 # **Android 求伯乐**
 * [Android 全国职位列表](https://github.com/rengwuxian/android-jobs)
+
