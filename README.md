@@ -40,6 +40,7 @@
 * [大众点评团队](http://tech.meituan.com/)
 * [dongjunkun牛人](http://www.jianshu.com/users/f07458c1a8f3/latest_articles)
 * [Kaede Akatsuki【牛人极力推荐】](http://kaedea.com/2016/02/09/android-about-source-code-how-to-read/)
+* [工匠若水 知道+做到=得到【zucker正在研读....】](http://blog.csdn.net/yanbober?viewmode=contents)
 * [冯建 Android探索者](http://jayfeng.com/archives)
 
 # **android实践项目**
