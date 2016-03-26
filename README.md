@@ -52,6 +52,7 @@
 * [干货集中营【开源App】](http://gank.io/download)
 * [安卓APP项目源码大全](http://www.javaapk.com/)
 * [Git@OS安卓App项目大全](http://git.oschina.net/languages/Android)
+* [22个值得收藏的Android开源代码-UI篇](http://www.jianshu.com/p/b56cab2cf4a8)
 
 # **Android 求伯乐**
 * [Android 全国职位列表](https://github.com/rengwuxian/android-jobs)
